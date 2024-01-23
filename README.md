@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AryanPahuja21
+- 👋 Hi, I’m Aryan Pahuja
 - 👀 I’m interested in DSA and Web Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to contribute in open source
