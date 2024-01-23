@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AryanPahuja21
+- 👀 I’m interested in DSA and Web Development
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to contribute in open source
+- 📫 To reach me - aryanpahuja1421@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Just like honey, my code stands the test of time – sweet and everlasting!
