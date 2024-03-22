@@ -19,7 +19,7 @@
 
 🌱 I’m looking to contribute in **Open Source**
 
-💬 Visit my portfolio: **[Portfolio Website](aryan-pahuja.vercel.app)**
+💬 Visit my portfolio: **[Portfolio Website](https://aryan-pahuja.vercel.app)**
 
 ⚡Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Just like honey, my code stands the test of time – sweet and everlasting!
 
